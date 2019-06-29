@@ -1,6 +1,5 @@
 # Route 66: Story Map
 
-> NOTE: In response to popular demand, midterms are now due *before class* Friday, March 22nd rather than Sunday, March 17th.
 
 ## Project Outline
 
